@@ -131,7 +131,7 @@ Here is also a quick preview of the brute force on a TV numpad I tried with a Fl
 
 *The video is played in slow motion to clearly visualize the cursor movements and clicks.*
 
-<video width="375" src="https://github.com/user-attachments/assets/444d1531-361d-4200-8247-f8f6e400dbb3"></video>
+<video width="375" src="https://github.com/user-attachments/assets/2ffc1dac-8b99-4725-aba0-6e098f418dfc"></video>
 
 In this demonstration, we can see the payload is brute-forcing the numeric combination from **0539** to **0543**.
 
